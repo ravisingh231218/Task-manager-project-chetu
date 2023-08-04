@@ -1,0 +1,15 @@
+/Users/mac/Projects/finish project oerposal/finish project oerposal/bin/Debug/net7.0/finish project oerposal
+/Users/mac/Projects/finish project oerposal/finish project oerposal/bin/Debug/net7.0/finish project oerposal.deps.json
+/Users/mac/Projects/finish project oerposal/finish project oerposal/bin/Debug/net7.0/finish project oerposal.runtimeconfig.json
+/Users/mac/Projects/finish project oerposal/finish project oerposal/bin/Debug/net7.0/finish project oerposal.dll
+/Users/mac/Projects/finish project oerposal/finish project oerposal/bin/Debug/net7.0/finish project oerposal.pdb
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.csproj.AssemblyReference.cache
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.AssemblyInfoInputs.cache
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.AssemblyInfo.cs
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.dll
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/refint/finish project oerposal.dll
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.pdb
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/finish project oerposal.genruntimeconfig.cache
+/Users/mac/Projects/finish project oerposal/finish project oerposal/obj/Debug/net7.0/ref/finish project oerposal.dll
